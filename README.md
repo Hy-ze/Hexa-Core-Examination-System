@@ -269,7 +269,7 @@ This allows developers to explore available endpoints and test API requests.
 **Project:** Hexa-Core  
 **Repository:** Techno_Verse-26
 
-GitHub: https://github.com/Binarybuilder4474/Techno_verse
+GitHub: https://github.com/Hy-ze/Hexa-Core-Examination-System.git
 
 ---
 
